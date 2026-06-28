@@ -23,6 +23,7 @@ def main():
 
         #order is extremely important here
         screen.fill("black")
+        player.update(dt)
         player.draw(screen)
         pygame.display.flip()
 

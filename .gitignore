@@ -11,3 +11,4 @@ wheels/
 
 #Other
 game_state.jsonl
+.vscode
